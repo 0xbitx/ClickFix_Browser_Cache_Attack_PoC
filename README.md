@@ -34,7 +34,6 @@ ClickFix_Browser_Cache_Attack_PoC/
 ├── payload.sh             # Your shell commands (no markers needed)
 ├── original_image.png     # Input image (auto-generated if missing)
 ├── malicious_image.png    # Weaponized output
-├── extract_from_cache.py  # Optional: Python cache scanner and extractor
 └── requirements.txt       # flask
 ```
 
